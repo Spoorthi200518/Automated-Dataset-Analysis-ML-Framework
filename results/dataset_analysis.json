@@ -1,0 +1,18 @@
+{
+    "rows": 569,
+    "columns": 32,
+    "missing_values": 0,
+    "missing_percentage": 0.0,
+    "duplicate_rows": 0,
+    "duplicate_percentage": 0.0,
+    "constant_columns": 0,
+    "outlier_values": 608,
+    "imbalance_detected": true,
+    "imbalance_ratio": 0.5938375350140056,
+    "target_distribution": {
+        "B": 357,
+        "M": 212
+    },
+    "high_correlation_pairs": 21,
+    "numerical_columns": 31
+}
